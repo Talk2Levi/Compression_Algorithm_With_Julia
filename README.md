@@ -26,4 +26,4 @@ _Total Cost Using MTF Algorithm: 4688_
 
 _Total Cost Using Original Access: 16438_
 
-_Total Look up cost saved 71.481%_
+_Total Look up cost saved **71.481%**_
