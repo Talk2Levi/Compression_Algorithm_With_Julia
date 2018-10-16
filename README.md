@@ -8,9 +8,9 @@ Several Compression Algorithms Implemented Using Julia 1.0
 
 ## Results
 
-### Move-TO-Front
+### Move-To-Front
 
-This Algorithm Increased Temporal Locality by decaoding the common showed up letters to the front.
+**This Algorithm Increased Temporal Locality by decaoding the more common showed up letters to the front.**
 
 _-> Original string:_
 
