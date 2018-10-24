@@ -1,5 +1,6 @@
 # Compression Algorithms With Julia 1.0
 Several Compression Algorithms Implemented Using Julia 1.0
+_(If you want to check Jupyter file, it has a little bit long loading time)_
 
 ## Features
 - [x] Move-To-Front
