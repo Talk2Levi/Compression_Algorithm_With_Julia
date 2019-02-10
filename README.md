@@ -4,8 +4,6 @@ _(If you want to check Jupyter file, it has a little bit long loading time)_
 
 ## Features
 - [x] Move-To-Front
-- [ ] Burrows–Wheeler Transform
-- [ ] Time Stamp
 
 ## Results
 
